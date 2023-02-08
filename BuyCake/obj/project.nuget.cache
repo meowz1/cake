@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wQCU+cErfwUFgvuXVizAQpVPPIQjl1ZY1wBjAF9z3TUXtY9H0j1J5V27VAFu541RvlEsxDrnSjmd/Wio0u+K6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dragg\\OneDrive\\Desktop\\BuyCake\\BuyCake.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dragg\\.nuget\\packages\\extended.wpf.toolkit\\4.4.0\\extended.wpf.toolkit.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuyCake", "BuyCake.csproj", "{2AC79093-BE51-42CD-9E8C-6904470F8522}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AC79093-BE51-42CD-9E8C-6904470F8522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AC79093-BE51-42CD-9E8C-6904470F8522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AC79093-BE51-42CD-9E8C-6904470F8522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AC79093-BE51-42CD-9E8C-6904470F8522}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {743089BF-F67B-4856-BCDE-47A35E675625}
+	EndGlobalSection
+EndGlobal
